@@ -1,0 +1,6 @@
+requirements needed to access the web application:
+
+•	Windows, Linux Server or Shared Hosting Account.
+•	Apache, nginx, IIS or similar web server.
+•	PHP 7.4 with PDO MySQL.
+•	MySQL / MariaDB for MySQL 5.7.
